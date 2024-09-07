@@ -36,7 +36,7 @@ cd slot-machine
 ```bash
 python slot_machine.py
 ```
-## How to Play
+### How to Play
 
 1. Deposit money: You start by entering the amount of money you wish to deposit into the game.
 2. Select number of lines: Choose how many lines (1-3) you want to bet on.
